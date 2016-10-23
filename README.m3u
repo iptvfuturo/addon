@@ -1,0 +1,31 @@
+#EXTM3U
+####################################################################################################################################################
+####################################################################################################################################################
+#PLAYLISTV: pltv-logo="https://goo.gl/DCHnMq" pltv-name="" pltv-description="Atualizado: 17/10" pltv-cover="https://goo.gl/zGNGhg" pltv-author="" 
+pltv-site="" pltv-email="" pltv-phone=""
+#EXTINF:-1 tvg-logo="https://goo.gl/DCHnMq" group-title="17/10",17/10
+http://myonseries.blogspot.com
+#EXTINF:-1 tvg-logo="https://goo.gl/DCHnMq" group-title="bit.ly/ONSeries",bit.ly/ONSeries
+http://myonseries.blogspot.com
+#EXTINF:-1 tvg-logo="https://goo.gl/DCHnMq" group-title="Informações",Sua lista de series.
+http://myonseries.blogspot.com
+#EXTINF:-1 tvg-logo="https://goo.gl/DCHnMq" group-title="Informações",A mais completa.
+http://myonseries.blogspot.com
+#EXTINF:-1 tvg-logo="https://goo.gl/DCHnMq" group-title="Informações",Atualizado 17/10
+http://myonseries.blogspot.com
+#################################################################################################################
+####################################################################################################################################################
+	##ONFilmes Torrents
+#EXTINF:-1 tvg-logo="http://goo.gl/Vkkus4" group-title="ONFilmes Torrent",A 5ª Onda
+magnet:?xt=urn:btih:0f2b06daf2a28c042ca13c46373f3ddef246ef04&dn=A+5%C2%AA+Onda+2016+%5B1080p%5D+WWW.BLUDV.COM
+#EXTINF:-1 tvg-logo="http://goo.gl/OcdhAf" group-title="ONFilmes Torrent",O Regresso
+magnet:?xt=urn:btih:FECE4DAC3557DE936DE7380798090C8986331AB2&dn=O%20Regresso%202016%20Bluray%201080p%20Dublado%20-%20WWW.THEPIRATEFILMES.COM&tr=udp%3a//tracker.trackerfix.com%3a80/announce
+#EXTINF:-1 tvg-logo="http://goo.gl/hRWLQ2" group-title="ONFilmes Torrent",A Lenda de Tarzan 2016
+magnet:?xt=urn:btih:804928C4940C45D28DD8D8EBDD96560B7A7A30B9&dn=A.Lenda.de.Tarzan.TS.XviD.DUBLADO-WWW.TORRENTDOSFILMES.COM.avi&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&tr=http%3a%2f%2ftracker1.wasabii.com.tw%3a6969%2fannounce&tr=http%3a%2f%2ftracker.tfile.me%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fmgtracker.org%3a2710%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2780%2fannounce&tr=udp%3a%2f%2f9.rarbg.me%3a2770%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce
+####################################################################################################################################################
+####################################################################################################################################################
+	##ONSeries Torrents
+#EXTINF:-1 tvg-logo="http://goo.gl/Yoer8s" group-title="ONSeries Torrent",Stranger Things
+http://myonseries.blogspot.com?StrangerThings
+#EXTINF:-1 tvg-logo="http://goo.gl/Yoer8s" group-title="ONSeries Torrent",1x08 Stranger Things: The Upside Down - OnSeason Finale
+magnet:?xt=urn:btih:E4FE27F0FAC74291A931FB2F1086084489BE54EB&tr=udp://tracke
